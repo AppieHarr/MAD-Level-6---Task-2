@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie app</string>
+
+    <string name="something_wrong_state">Something went wrong</string>
+    <string name="noQuery">Search query can`t be empty</string>
+    <string name="unknown_error">unknown error</string>
+    <string name="created_at">Created at</string>
+    <string name="empty" />
+    <string name="clear_search_icon_description">clear search icon description</string>
+    <string name="main">main</string>
+    <string name="movie_detail">movie detail</string>
+    <string name="error_fetching_movies">error fetching</string>
+    <string name="search_icon_description">search icon description</string>
+    <string name="search_hint">Search</string>
+    <string name="no_search_results">no search result</string>
+</resources>
